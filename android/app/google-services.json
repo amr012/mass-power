@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756332322394",
+    "project_id": "powermass-b2ecc",
+    "storage_bucket": "powermass-b2ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756332322394:android:deda22fbb8e67cbadb0263",
+        "android_client_info": {
+          "package_name": "com.example.powermass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756332322394-komg8hkiubhi4f64rch76k1jkgpb9qps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7ex0joulYHtgCGjD2s62S5fjbROR7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756332322394-komg8hkiubhi4f64rch76k1jkgpb9qps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
